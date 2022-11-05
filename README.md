@@ -1,5 +1,6 @@
 # Next Level Week (NLW) Copa - Trilha Ignite | Rocketseat 
 
+-------------------------------------------------------------------
 ![Arquivo Readme 1](/arquivos/arquivo-readme-1.png)
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -16,6 +17,7 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
+-------------------------------------------------------------------
 ### Projeto no qual foi desenvolvido um servidor Backend, uma plataforma Web e um aplicativo Mobile onde pode-se criar bolões e fazer palpites
 ![Arquivo Readme 2](/arquivos/arquivo-readme-2.png)
 
