@@ -76,6 +76,7 @@ $ npm run dev
 ### _Executar o aplicativo Mobile_
 - [Expo](https://expo.io/)
 - [React Native](https://reactnative.dev/)
+- [Native Base](https://docs.nativebase.io/installation)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ```bash 
