@@ -91,3 +91,12 @@ $ npx expo start
 
 ```
 -------------------------------------------------------------------
+
+##
+Feito com ❤️ por <a href="https://www.linkedin.com/in/andressakarla/">Andressa Karla</a> :wave: Entre em contato!
+
+[![Github](https://img.shields.io/badge/-Github-595D60?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AndressaKarla/)](https://github.com/AndressaKarla/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-595D60?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressakarla//)](https://www.linkedin.com/in/andressakarla/)
+[![Gmail](https://img.shields.io/badge/-Gmail-595D60?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andressa.karla1@gmail.com)](mailto:andressa.karla1@gmail.com)
+
+-------------------------------------------------------------------
