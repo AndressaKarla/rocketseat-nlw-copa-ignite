@@ -97,9 +97,9 @@ $ npx expo start
 -------------------------------------------------------------------
 
 ##
-Feito com ❤️ por <a href="https://www.linkedin.com/in/andressakarla/">Andressa Karla</a> :wave: Entre em contato!
+Feito com ❤️ por <a href="https://www.linkedin.com/in/andressakarla/">Andressa Karla</a> :wave: 
   
-[![Github](https://img.shields.io/badge/-Github-595D60?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AndressaKarla/)](https://github.com/AndressaKarla/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-595D60?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressakarla//)](https://www.linkedin.com/in/andressakarla/)
+[![Medium](https://img.shields.io/badge/-Medium-595D60?style=plastic&logo=Medium&logoColor=white&link=https://medium.com/@andressakarla)](https://medium.com/@andressakarla)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-595D60?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressakarla//)](https://www.linkedin.com/in/andressakarla/)
 
 -------------------------------------------------------------------
